@@ -11,59 +11,37 @@
 ### 💫 About Me
 **Data Scientist | ERP & Odoo Developer | Business Systems Analyst**
 
-Saya spesialis dalam mengubah **data operasional bisnis menjadi wawasan yang dapat ditindaklanjuti**. Dengan latar belakang Manajemen Sistem Informasi, saya membangun solusi yang menjembatani alur kerja ERP (Odoo/POS) yang kompleks dengan pengambilan keputusan berbasis data.
+I specialize in transforming **business operational data into actionable insights**. With a background in Information Systems Management, I build solutions that bridge the gap between complex ERP workflows (Odoo/POS) and data-driven decision-making.
 
 - 📊 **Data Science:** Predictive modeling, clustering, & end-to-end data pipelines.
-- 🧾 **ERP Expert:** Custom Odoo (v16/v17) development & POS optimization.
+- 🧾 **ERP Expert:** Custom Odoo (v16/v17) development & POS system optimization.
 - 📈 **Strategy:** Automation reporting & database mirroring.
 
 ---
 
 ## 📂 Featured Portfolios
-*Pilih cara Anda menjelajahi karya saya:*
+*Choose how you want to explore my work:*
 
 | Type | Link | Description |
 | :--- | :--- | :--- |
-| **🚀 Technical** | [**Check GitHub**](https://github.com/dianpransisko/DIAN-PRANSISKO-HARAHAP-portofolio) | Deep dive ke **code**, SQL, Python, dan dokumentasi teknis. |
-| **🎨 Visual** | [**View Canva**](https://dianpransiskoharahap.my.canva.site/portofolio-dian-pransisko-harahap-2026) | Visual journey dari proyek saya, UI/UX, dan **Executive Summaries**. |
+| **🚀 Technical** | [**Check GitHub**](https://github.com/dianpransisko/DIAN-PRANSISKO-HARAHAP-portofolio) | Deep dive into **code**, SQL scripts, Python notebooks, and technical documentation. |
+| **🎨 Visual** | [**View Canva**](https://dianpransiskoharahap.my.canva.site/portofolio-dian-pransisko-harahap-2026) | A visual journey of my projects, UI/UX designs, and **Executive Summaries**. |
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 📊 [E-Commerce RFM Analysis](https://github.com/dianpransisko/Data-Analyst-Proj)
-Identifikasi 1,136 'Champions' dan 637 'At Risk' customers untuk optimasi marketing ROI.
+Identified 1,136 'Champions' and 637 'At Risk' customers to optimize marketing ROI.
 `PostgreSQL` `Python` `Power BI`
 
 ### 🧾 [Odoo Custom ERP Module](https://github.com/dianpransisko/odoo-custom-addons)
-Odoo addons untuk otomatisasi sales workflow dan inventory tracking.
+Custom Odoo addons to automate sales workflows and inventory tracking.
 `Odoo v16/v17` `Python` `XML`
 
 ### 🏗️ [PostgreSQL Mirroring Automator](https://github.com/dianpransisko/Backup-Mirroring-Database-Automator)
-Sistem backup otomatis dengan SMTP Gateway untuk log IT real-time.
+Automated backup system with SMTP Gateway for real-time IT logs.
 `Python` `PostgreSQL` `DevOps`
-
----
-
-## 🛠 Tech Stack
-
-<details>
-<summary><b>📊 Data Science & Analysis</b></summary>
-<br/>
-<img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-</details>
-
-<details>
-<summary><b>⚙️ ERP & Backend Development</b></summary>
-<br/>
-<img src="https://img.shields.io/badge/Odoo-875A7B?style=flat-square&logo=odoo&logoColor=white" />
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-</details>
 
 ---
 
@@ -90,10 +68,16 @@ Sistem backup otomatis dengan SMTP Gateway untuk log IT real-time.
 
 ---
 
+## 📊 My GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dianpransisko&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianpransisko&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 ## 📚 Academic & Publications
-- 🎓 **[Google Scholar](https://scholar.google.com/citations?user=cngLz7YAAAAJ&hl=en)** - Riset Akademik.
-- 🏆 **[Professional Certifications](https://drive.google.com/drive/folders/1jU6OCDEVcmKtmkKbMExj_RrPtMGXlJTl?usp=sharing)** - Folder Sertifikat.
+- 🎓 **[Google Scholar](https://scholar.google.com/citations?user=cngLz7YAAAAJ&hl=en)** - Academic Research.
+- 🏆 **[Professional Certifications](https://drive.google.com/drive/folders/1jU6OCDEVcmKtmkKbMExj_RrPtMGXlJTl?usp=sharing)** - Certification Folder.
 
-<p align="right">(<a href="https://github.com/dianpransisko">Back to top</a>)</p>
+<p align="right">(<a href="#-hello-im-dian-pransisko-harahap">Back to top</a>)</p>
