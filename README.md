@@ -72,7 +72,7 @@ Automated backup system with SMTP Gateway for real-time IT logs.
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dianpransisko&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dianpransisko&layout=compact&theme=tokyonight" width="48%" />
-</p>>
+</p>
 
 ---
 
