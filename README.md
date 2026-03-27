@@ -96,4 +96,4 @@ Sistem backup otomatis dengan SMTP Gateway untuk log IT real-time.
 - 🎓 **[Google Scholar](https://scholar.google.com/citations?user=cngLz7YAAAAJ&hl=en)** - Riset Akademik.
 - 🏆 **[Professional Certifications](https://drive.google.com/drive/folders/1jU6OCDEVcmKtmkKbMExj_RrPtMGXlJTl?usp=sharing)** - Folder Sertifikat.
 
-<p align="right">(<a href="#-hello-im-dian-pransisko-harahap">Back to top</a>)</p>
+<p align="right">(<a href="https://github.com/dianpransisko">Back to top</a>)</p>
