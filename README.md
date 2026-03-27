@@ -77,7 +77,9 @@ Automated backup system with SMTP Gateway for real-time IT logs.
 ---
 
 ## 📚 Academic & Publications
-- 🎓 **[Google Scholar](https://scholar.google.com/citations?user=cngLz7YAAAAJ&hl=en)** - Academic Research.
-- 🏆 **[Professional Certifications](https://drive.google.com/drive/folders/1jU6OCDEVcmKtmkKbMExj_RrPtMGXlJTl?usp=sharing)** - Certification Folder.
+- 🎓 **[Google Scholar](https://scholar.google.com/citations?user=cngLz7YAAAAJ&hl=en)** - Academic Research & Publications.
+- 🏛️ **[PDDIKTI - Official Student Record](https://pddikti.kemdiktisaintek.go.id/detail-mahasiswa/4lmzax3cre61dss5_td8tFhIq3db2FvUWnt7t6Uk6pDKr2ZsrpppwNXghLiDdGZB9RfVGw==)**
+- 🏆 **[Professional Certifications Folder](https://drive.google.com/drive/folders/1jU6OCDEVcmKtmkKbMExj_RrPtMGXlJTl?usp=sharing)**
+
 
 <p align="right">(<a href="#-hello-im-dian-pransisko-harahap">Back to top</a>)</p>
