@@ -45,7 +45,7 @@ Automated backup system with SMTP Gateway for real-time IT logs.
 
 ### 🏗️ [AutoShorts AI v1.0](https://github.com/dianpransisko/AutoShorts-AI)
 AutoShorts AI is a specialized desktop application designed to transform long-form sermon recordings into high-impact vertical videos (9:16) for social media platforms such as Instagram Reels, TikTok, and YouTube Shorts. By leveraging offline AI, it ensures professional-grade audio and perfectly synced subtitles without recurring subscription costs.
-`Python` `PostgreSQL` `DevOps`
+`Python` `batch` `AI`
 
 ---
 
