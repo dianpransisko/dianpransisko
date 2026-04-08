@@ -46,7 +46,7 @@ Automated backup system with SMTP Gateway for real-time IT logs.
 ### 🏗️ [AutoShorts AI v1.0](https://github.com/dianpransisko/AutoShorts-AI)
 AutoShorts AI is a specialized desktop application designed to transform long-form sermon recordings into high-impact vertical videos (9:16) for social media platforms such as Instagram Reels, TikTok, and YouTube Shorts. By leveraging offline AI, it ensures professional-grade audio and perfectly synced subtitles without recurring subscription costs.
 `Python` `batch` `AI`
-### 📌 [Data Analyst](https://github.com/dianpransisko/Data-Analysis)
+### 📌 [Data Analyst](https://github.com/dianpransisko/Data-Analist-Porto)
 This project analyzes employee absenteeism patterns using **categorical cohort analysis** and **statistical sampling techniques** to identify high-risk groups, hidden anomalies, and actionable HR insights.
 The analysis uncovers the root causes behind **13,333 lost working hours** and provides **data-driven (evidence-based) recommendations** to improve workforce productivity and reporting accuracy.
 - **Data Analysis Techniques**
