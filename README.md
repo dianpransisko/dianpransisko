@@ -43,7 +43,7 @@ Automated backup system with SMTP Gateway for real-time IT logs.
 AutoShorts AI is a specialized desktop application designed to transform long-form sermon recordings into high-impact vertical videos (9:16) for social media platforms such as Instagram Reels, TikTok, and YouTube Shorts. By leveraging offline AI, it ensures professional-grade audio and perfectly synced subtitles without recurring subscription costs.
 `Python` `batch` `AI`
 
-### 📌 [Data Analyst](https://github.com/dianpransisko/Data-Analyst-Portfolio)
+### 📌 [Data Analyst Proj ](https://github.com/dianpransisko/Data-Analyst-Portfolio)
 This repository showcases a collection of Data Analyst projects focused on data-driven decision making, business insights, and process automation using various analytical and visualization tools
 
 ---
@@ -71,7 +71,7 @@ This repository showcases a collection of Data Analyst projects focused on data-
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 My GitHub
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dianpransisko&layout=compact&theme=tokyonight" width="60%" />
 </p>
