@@ -44,7 +44,7 @@ AutoShorts AI is a specialized desktop application designed to transform long-fo
 `Python` `batch` `AI`
 
 ### 📌 [Data Analyst Proj ](https://github.com/dianpransisko/Data-Analyst-Portfolio)
-This repository showcases a collection of Data Analyst projects focused on data-driven decision making, business insights, and process automation using various analytical and visualization tools
+This repository showcases a collection of Data Analyst projects.
 
 ---
 
