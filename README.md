@@ -31,10 +31,6 @@ I specialize in transforming **business operational data into actionable insight
 
 ## 🚀 Featured Projects
 
-### 📊 [E-Commerce RFM Analysis](https://github.com/dianpransisko/Data-Analyst-Proj)
-Identified 1,136 'Champions' and 637 'At Risk' customers to optimize marketing ROI.
-`PostgreSQL` `Python` `Power BI`
-
 ### 🧾 [Odoo Custom ERP Module](https://github.com/dianpransisko/odoo-custom-addons)
 Custom Odoo addons to automate sales workflows and inventory tracking.
 `Odoo v16/v17` `Python` `XML`
