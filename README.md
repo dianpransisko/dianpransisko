@@ -24,9 +24,9 @@ I specialize in transforming **business operational data into actionable insight
 
 | Type | Link | Description |
 | :--- | :--- | :--- |
-| **🚀 Technical Portofolio ** | [**Check Technical**](https://github.com/dianpransisko) | Deep dive into **code**, SQL scripts, Python notebooks, and technical documentation. |
-| **🚀 Analyst Portofolio ** | [**Check Analyst**](https://github.com/dianpransisko/Data-Analyst-Portfolio) | This repository showcases a collection of Data Analyst projects. |
-| **🎨 Visual & Multimedia ** | [**Check Multimedia**](https://dianpransiskoharahap.my.canva.site/portofolio-dian-pransisko-harahap-2026) | A visual journey of my projects, UI/UX designs, and **Executive Summaries**. |
+| 🚀 Technical Portofolio  | [**Check Technical**](https://github.com/dianpransisko) | Deep dive into **code**, SQL scripts, Python notebooks, and technical documentation. |
+| 🧾 Analyst Portofolio  | [**Check Analyst**](https://github.com/dianpransisko/Data-Analyst-Portfolio) | This repository showcases a collection of Data Analyst projects. |
+| 🎨 Visual & Multimedia  | [**Check Multimedia**](https://dianpransiskoharahap.my.canva.site/portofolio-dian-pransisko-harahap-2026) | A visual journey of my projects, UI/UX designs, and **Executive Summaries**. |
 
 ---
 
