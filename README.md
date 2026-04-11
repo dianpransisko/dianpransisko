@@ -9,7 +9,7 @@
 </p>
 
 ### 💫 About Me
-**Data Scientist | ERP & Odoo Developer | Business Systems Analyst**
+**Multimedia Specialist • ERP Systems • Management Strategy**
 
 I specialize in transforming **business operational data into actionable insights**. With a background in Information Systems Management, I build solutions that bridge the gap between complex ERP workflows (Odoo/POS) and data-driven decision-making.
 
