@@ -47,6 +47,10 @@ AutoShorts AI is a specialized desktop application designed to transform long-fo
 ### 📌 [Data Analyst Proj ](https://github.com/dianpransisko/Data-Analyst-Portfolio)
 This repository showcases a collection of Data Analyst projects.
 
+### 📌 [End-to-End ELT Pipeline (Data Integrity Focus) ](https://github.com/dianpransisko/dbt-pipeline-ELT)
+An automated data pipeline implementing the Medallion Architecture, specifically engineered to manage transaction data for commercial trading enterprises with integrated credit systems. This system ensures end-to-end data integrity—from initial ingestion to final consumption in Power BI.
+
+
 ---
 
 ## 🛠️ My Applications & Tools
